@@ -81,7 +81,9 @@
 # 15. menghapus suplier 
 ![image](https://user-images.githubusercontent.com/81583408/122633785-8f594a00-d104-11eb-9530-e923f750c704.png)
 # tampilan setelah menghapus
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/81583408/122633918-51105a80-d105-11eb-8a60-cfd5beb74f7f.png)
+
+
 
 
 
